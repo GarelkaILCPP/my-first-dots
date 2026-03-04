@@ -3,6 +3,13 @@
 # The simple Hyprland shell
 This shell use Quickshell for widgets, rofi for custom menus, wallust for change colors and swww for wallpaper. 
 
+## Dependencies
+Install dependencies for Arch Linux:
+```bash
+pacman -S hyprland kitty swww quickshell rofi playerctl
+yay -S wallust hyprshot-git clipvault
+```
+
 ## Preview
 ![Desktop Screenshot](preview/2026-03-03-235711_hyprshot.png "Desktop")
 ![Wallpaper Change](preview/2026-03-03-235719_hyprshot.png "Walpapers")
