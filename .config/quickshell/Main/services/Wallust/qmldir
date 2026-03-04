@@ -1,0 +1,2 @@
+// services/Wallust/qmldir
+singleton WallustColors WallustService.qml

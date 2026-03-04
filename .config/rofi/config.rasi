@@ -1,0 +1,13 @@
+@theme "~/.config/rofi/themes/style.rasi"
+
+configuration {
+  display-drun: "Apps";
+  show-icons: true;
+  modi: "drun";
+}
+
+
+
+//@theme "/home/george/.local/share/rofi/themes/rounded-purple-dark.rasi"
+
+//@theme "/usr/share/rofi/themes/lb.rasi"

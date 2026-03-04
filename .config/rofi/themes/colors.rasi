@@ -1,0 +1,25 @@
+* {
+    /* 16-цветная палитра, генерируемая Wallust */
+    color0:     #36393C;
+    color1:     #762A36;
+    color2:     #3C445B;
+    color3:     #135466;
+    color4:     #776474;
+    color5:     #B56872;
+    color6:     #FD7A72;
+    color7:     #F6B4B0;
+    color8:     #AC7E7B;
+    color9:     #762A36;
+    color10:    #3C445B;
+    color11:    #135466;
+    color12:    #776474;
+    color13:    #B56872;
+    color14:    #FD7A72;
+    color15:    #F6B4B0;
+
+    /* Алиасы, привязанные к цветам Wallust */
+    bg:         #0D1014;
+    bg-alt:     #36393C; 
+    fg:         #FED0CE;
+    border-col: #AC7E7B;
+}
