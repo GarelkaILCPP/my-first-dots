@@ -7,4 +7,4 @@ This shell use Quickshell for widgets, rofi for custom menus, wallust for change
 ![Desktop Screenshot](preview/2026-03-03-235711_hyprshot.png "Desktop")
 ![Wallpaper Change](preview/2026-03-03-235719_hyprshot.png "Walpapers")
 ![Desktop with other wallpaper](preview/2026-03-03-235743_hyprshot.png "HLX whitesand")
-![App Selector](preview/2026-03-03-235711_hyprshot.png "Apps")
+![App Selector](preview/2026-03-03-235916_hyprshot.png "Apps")
